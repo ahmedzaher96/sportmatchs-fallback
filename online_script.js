@@ -1,1 +1,1 @@
-alert(111)
+window.location = "https://live.alahly-eg.com/inapp/";
